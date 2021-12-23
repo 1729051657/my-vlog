@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 小孔的博客
+tagline: 记录扯淡的开发日常.
 
 # heroImage: /hero.png
 # heroImageStyle: {
