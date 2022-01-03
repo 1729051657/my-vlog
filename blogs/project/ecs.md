@@ -1,13 +1,11 @@
 ---
-title: 吉林省白城市看守所刷脸点餐
+title: 森尼瑞 `能耗管理系统` 以及接报修`小程序`
 date: 2022-01-03
 tags:
  - spring-boot
  - vue
- - websocket
+ - uniapp
  - echarts
- - react
- - antd
 categories:
  - my-project
 ---

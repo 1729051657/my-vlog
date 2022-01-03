@@ -1,15 +1,15 @@
 ---
-title: 吉林省白城市看守所刷脸点餐
+title: 云南省跆拳道委员会网站
 date: 2022-01-03
 tags:
  - spring-boot
  - vue
- - websocket
- - echarts
- - react
- - antd
 categories:
  - my-project
 ---
 
 [返回简历](../other/my.md)
+## 云南省学生体育协会跆拳道专业委员会
+[外网地址](https://ynstkd.cn/)
+[内网地址](https://ynstkd.cn/login)
+

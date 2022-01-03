@@ -50,13 +50,7 @@ module.exports = {
         desc: 'Enjoy when you can, and endure when you must.',
         email: '1729051657@qq.com',
         link: 'https://github.com/1729051657'
-      },
-      {
-        title: 'vuepress-theme-reco',
-        desc: 'A simple and beautiful vuepress Blog & Doc theme.',
-        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        link: 'https://vuepress-theme-reco.recoluan.com'
-      },
+      }
     ],
     logo: '/logo.png',
     // 搜索设置
