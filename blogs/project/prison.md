@@ -36,7 +36,7 @@ categories:
 [安卓APP下载地址](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ce2a3b14-ff17-44c7-a7e1-c5704a867607/b22b512a-9124-4d9d-9d6f-643442867575.apk)
 
 ## 刷脸设备演示视频
-<video controls src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ce2a3b14-ff17-44c7-a7e1-c5704a867607/84eb4232-a836-4864-8540-3677ffa614c4.mp4"/>
+<video style="width: 100%" controls src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ce2a3b14-ff17-44c7-a7e1-c5704a867607/84eb4232-a836-4864-8540-3677ffa614c4.mp4"/>
 
 
 
