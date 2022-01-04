@@ -23,7 +23,7 @@ categories:
 - [植友 `小程序` `公众号` `Android` `IOS`](../project/zhiyou.md)
 - [每日一回收 `小程序`](../project/recovery.md)
 - [森尼瑞 `能耗管理系统` 以及接报修`小程序`](../project/ecs.md)
-- [继集团对外认证 招标 竞价网站](../project/xuji.md)
+- [许继集团对外认证 招标 竞价网站](../project/xuji.md)
 - [百联集团 陆家嘴集团 国金中心 `能耗管理系统` 以及`计费系统`](../project/canneng.md)
 - 疫情期间问卷调查以及采集填写小程序 后台生成小程序问卷二维码，以及汇总导出Word Excel
 ## 前端技术栈
