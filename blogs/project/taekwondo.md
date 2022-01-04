@@ -12,4 +12,6 @@ categories:
 ## 云南省学生体育协会跆拳道专业委员会
 [外网地址](https://ynstkd.cn/)
 [内网地址](https://ynstkd.cn/login)
+## 技术栈
+`docker` `vue` `springboot` `oss` `tinymce`
 

@@ -38,7 +38,9 @@ categories:
 ## 刷脸设备演示视频
 <video style="width: 100%" controls src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ce2a3b14-ff17-44c7-a7e1-c5704a867607/84eb4232-a836-4864-8540-3677ffa614c4.mp4"/>
 
-
+## 闲谈
+![img_20.png](./img_20.png)
+![img_21.png](./img_21.png)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 孔德超-全栈-简历
+title: 孔德超-全栈偏前端-简历
 date: 2022-01-04
 tags:
  - 简历 
@@ -12,11 +12,11 @@ categories:
 ::: tip 
 手机: [17603844084]()</br>
 暂住址：河南许昌建安区</br>
-期望薪资：税后15k+ 13+薪 可接受(上海｜杭州｜郑州｜许昌)</br>
+薪资：面议 可接受(上海｜杭州｜郑州｜许昌)</br>
 下面是简介真实可背调
 :::
 ## 3年学习加4年开发经验，学习能力极高，参与或整体负责做过多个大小型项目
-### 负责整体架构,开发,测试,调试,上线,维护项目目录如下(小项目就不写了)：
+### 负责整体架构,开发,测试,调试,上线,维护项目目录如下`可点击查看详情`(小项目就不写了)：
 - [吉林省白城市看守所`刷脸`点餐](../project/prison.md)
 - [云南省政府问卷投票项目](../project/vote.md)
 - [云南省跆拳道委员会网站](../project/taekwondo.md)
@@ -28,11 +28,14 @@ categories:
 - 疫情期间问卷调查以及采集填写小程序 后台生成小程序问卷二维码，以及汇总导出Word Excel
 ## 前端技术栈
 ::: tip
-###  JavaScript `vue全家桶` `vuepress` `websocket` `uniapp` `andriod` `uniapp原生插件` `element` `antd` `vue3` `react` `echarts`  `nuxt` `微信小程序` `公众号`
+###  JavaScript `vue全家桶` `uniapp` `vue3` `react` `vuepress` `nuxt` `websocket` `echarts`  
+###  UI `element` `antd`
+###  其他 `Andriod` `uniapp原生插件` `微信小程序` `公众号`
 :::
 ## 后端技术栈
 ::: tip
-### Java `spring全家桶` `websocket` `mysql` `mybits` `mybits-plus` `redis` `oss` `excel` `docker` `Nginx `
+### Java `spring全家桶` `websocket` `mysql` `mybits` `mybits-plus` `redis` `excel`
+### 运维 `docker` `Nginx` `oss`
 :::
 ## 日常开发工具
 ::: tip
