@@ -1,46 +1,47 @@
 ---
-title: 孔德超-全栈偏前端-简历
+title: 跆拳道说明文档
 date: 2022-01-04
 tags:
- - 简历 
+ - 跆拳道 
 categories:
- - 简历
+ - 跆拳道
 ---
 
 
-## 求职简历
-::: tip 
-手机: [17603844084]()</br>
-暂住址：河南许昌建安区</br>
-薪资：面议 可接受(上海｜杭州｜郑州｜许昌)</br>
-下面是简介真实可背调
-:::
-## 3年学习加4年开发经验，学习能力极高，参与或整体负责做过多个大小型项目
-### 负责整体架构,开发,测试,调试,上线,维护项目目录如下`可点击查看详情`(小项目就不写了)：
-- [吉林省白城市看守所`刷脸`点餐](../project/prison.md)
-- [云南省政府问卷投票项目](../project/vote.md)
-- [云南省跆拳道委员会网站](../project/taekwondo.md)
-- [植友 `小程序` `公众号` `Android` `IOS`](../project/zhiyou.md)
-- [每日一回收 `小程序`](../project/recovery.md)
-- [森尼瑞 `能耗管理系统` 以及接报修`小程序`](../project/ecs.md)
-- [许继集团对外认证 招标 竞价网站](../project/xuji.md)
-- [百联集团 陆家嘴集团 国金中心 `能耗管理系统` 以及`计费系统`](../project/canneng.md)
-- 疫情期间问卷调查以及采集填写小程序 后台生成小程序问卷二维码，以及汇总导出Word Excel
-## 前端技术栈
-::: tip
-###  JavaScript `vue全家桶` `uniapp` `vue3` `react` `vuepress` `nuxt` `websocket` `echarts`  
-###  UI `element` `antd`
-###  其他 `Andriod` `uniapp原生插件` `微信小程序` `公众号`
-:::
-## 后端技术栈
-::: tip
-### Java `spring全家桶` `websocket` `mysql` `mybits` `mybits-plus` `redis` `excel`
-### 运维 `docker` `Nginx` `oss`
-:::
-## 日常开发工具
-::: tip
-### `idea` `webstorm` `hbudider` `android` `fiddler`
-![img.png](./img.png)
-### 系统熟练度`Mac`>`Windows`>`Linux`
-:::
+## 首页
+![img_1.png](./img_1.png)
+## 报名
+![img_2.png](./img_2.png)
+## 认证查询
+![img_3.png](./img_3.png)
+![img_4.png](./img_4.png)
+## 登陆注册
+![img_6.png](./img_6.png)
+![img_5.png](./img_5.png)
+## 新增外网用户
+![img_17.png](./img_17.png)
+## 导入外网用户
+![img_18.png](./img_18.png)
+
+## 后台配置
+## 首页公众号二维码配置
+![img_7.png](./img_7.png)
+## 首页地图地址配置
+![img_8.png](./img_8.png)
+## 选取坐标
+![img_16.png](./img_16.png)
+## 报名地区配置
+![img_9.png](./img_9.png)
+![img_10.png](./img_10.png)
+## 公告类型 菜单配置（原菜单尽量不要改）
+![img_11.png](./img_11.png)
+## 公告配置
+![img_12.png](./img_12.png)
+## 选择属于那个菜单下的公告
+![img_13.png](./img_13.png)
+## 视频需要去文件管理上传视频文件
+![img_14.png](./img_14.png)
+## 复制视频地址放到
+![img_15.png](./img_15.png)
+
 

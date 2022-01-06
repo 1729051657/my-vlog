@@ -1,6 +1,6 @@
 module.exports = {
-  title: "德超的博客",
-  description: '记录开发生活 .',
+  title: "跆拳道",
+  description: '跆拳道系统文档以及注意事项 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],

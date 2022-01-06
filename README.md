@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 小孔的博客
-tagline: 记录扯淡的开发日常.
+heroText: 跆拳道
+tagline: 跆拳道系统文档以及注意事项.
 
 # heroImage: /hero.png
 # heroImageStyle: {
