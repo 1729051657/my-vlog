@@ -34,7 +34,7 @@ categories:
 :::
 ## 后端技术栈
 ::: tip
-### Java `spring全家桶` `websocket` `mysql` `mybits` `mybits-plus` `redis` `excel`
+### Java `spring全家桶` `websocket` `mysql` `mybits` `mybits-plus` `redis` `excel` `maven`
 ### 运维 `docker` `Nginx` `oss`
 :::
 ## 日常开发工具
