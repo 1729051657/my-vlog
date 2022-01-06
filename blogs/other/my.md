@@ -20,11 +20,11 @@ categories:
 - >[吉林省白城市看守所`刷脸`点餐`小程序` `Android` `可点击查看详情`](../project/prison.md)
 - >[云南省政府问卷投票项目`可点击查看详情`](../project/vote.md)
 - >[云南省跆拳道委员会网站`可点击查看详情`](../project/taekwondo.md)
-- >[植友 `小程序` `公众号` `Android` `IOS``可点击查看详情`](../project/zhiyou.md)
+- >[植友 `小程序` `公众号` `Android` `IOS` `可点击查看详情`](../project/zhiyou.md)
 - >[每日一回收 `小程序``可点击查看详情`](../project/recovery.md)
-- >[森尼瑞 `能耗管理系统` 以及接报修`小程序``可点击查看详情`](../project/ecs.md)
+- >[森尼瑞 `能耗管理系统` 以及接报修`小程序` `可点击查看详情`](../project/ecs.md)
 - >[许继集团对外认证 招标 竞价网站`可点击查看详情`](../project/xuji.md)
-- >[百联集团 陆家嘴集团 国金中心 `能耗管理系统` 以及`计费系统``可点击查看详情`](../project/canneng.md)
+- >[百联集团 陆家嘴集团 国金中心 `能耗管理系统` 以及`计费系统` `可点击查看详情`](../project/canneng.md)
 - 疫情期间问卷调查以及采集填写小程序 后台生成小程序问卷二维码，以及汇总导出Word Excel
 ## 前端技术栈
 ::: tip
