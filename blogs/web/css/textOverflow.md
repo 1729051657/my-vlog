@@ -13,8 +13,9 @@ text-overflow:ellipsis;
 white-space:nowrap; 配合即可实现。
 ## 效果
 ![img.png](./img.png)
+
 ## 这里简单列下代码
-```html
+```
 <div class="container">
     <div class="box1">
         单行省略代替
@@ -33,7 +34,7 @@ white-space:nowrap; 配合即可实现。
 </div>
 ```
 
-```CSS
+```
 .box1 {
     background-color:red;
     overflow:hidden;

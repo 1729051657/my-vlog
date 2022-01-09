@@ -9,17 +9,17 @@ categories:
 
 ## 话不多说直接教程
 在 CSS 中，也就是借助 background + backdrop-filter: blur() 即可实现。
-##效果
+## 效果
 ![img_1.png](./img_1.png)
 ## 使用 backdrop-filter 实现高斯模糊蒙版 这里简单列下代码
-```angular2html
+```
 <div class="container">
     <div class="box">
         backdrop-filter: blur(10px)
     </div>
 </div>
 ```
-```angular2html
+```
 .box {
     border-radius: 5px;
     backdrop-filter: blur(10px);
