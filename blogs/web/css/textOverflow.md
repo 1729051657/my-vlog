@@ -1,6 +1,6 @@
 ---
 title: 使用CSS实现单行或者多行多余出来的文字省略代替
-date: 2022-0-09
+date: 2022-01-09
 tags:
  - css
 categories:
