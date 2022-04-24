@@ -1,10 +1,9 @@
 module.exports = {
-  title: "德超的博客",
-  description: '记录开发生活 .',
+  title: "中国文学名家名作赏析",
+  description: '中国文学名家名作赏析 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     ['link', {rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css'}],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     // 引入jquery
@@ -12,11 +11,6 @@ module.exports = {
       "language": "javascript",
       "type": "text/javascript",
       "src": "https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"
-    }],
-    ["script", {
-      "language": "javascript",
-      "type": "text/javascript",
-      "src": "/pdfjs/build/pdf.js"
     }],
     ["script", {
       "language": "javascript",
@@ -30,16 +24,15 @@ module.exports = {
     }]
   ],
   theme: 'reco',
+  locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
+  },
   themeConfig: {
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
       { text: '时间线', link: '/timeline/', icon: 'reco-date' },
-      { text: '文档',
-        icon: 'reco-message',
-        items: [
-          { text: 'vuepress-reco', link: '/docs/theme-reco/' }
-        ]
-      },
       { text: '联系我',
         icon: 'reco-message',
         items: [
@@ -47,14 +40,6 @@ module.exports = {
         ]
       }
     ],
-    sidebar: {
-      '/docs/theme-reco/': [
-        '',
-        'theme',
-        'plugin',
-        'api'
-      ]
-    },
     type: 'blog',
     // 博客设置
     blogConfig: {
@@ -90,7 +75,7 @@ module.exports = {
     // 备案号
     record: '豫K0355L',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2022',
     /**
      * 密钥 (if your blog is private)
      */
@@ -105,10 +90,10 @@ module.exports = {
      * valine 设置 (if you need valine comment )
      */
 
-    // valineConfig: {
-    //   appId: '...',// your appId
-    //   appKey: '...', // your appKey
-    // }
+    valineConfig: {
+      appId: '7EUuY67ai5nniEk6Hh2n3QKo-gzGzoHsz',// your appId
+      appKey: 'WTgTjYdAz4dtdEnewrhYxU0K', // your appKey
+    }
   },
   markdown: {
     lineNumbers: true
