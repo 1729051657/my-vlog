@@ -16,20 +16,20 @@ module.exports = {
     ["script", {
       "language": "javascript",
       "type": "text/javascript",
-      "src": "/pdfjs/build/pdf.js"
-    }],
-    ["script", {
-      "language": "javascript",
-      "type": "text/javascript",
       "src": "/scripts/MouseClickEffect.js"
     }],
     ["script", {
       "language": "javascript",
       "type": "text/javascript",
-      "src": "/scripts/autoload.js"
+      "src": "/scripts/autoload.js.js"
     }]
   ],
   theme: 'reco',
+  locales: {
+    '/': {
+      lang: 'zh-CN'
+    }
+  },
   themeConfig: {
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
@@ -90,7 +90,7 @@ module.exports = {
     // 备案号
     record: '豫K0355L',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2017',
     /**
      * 密钥 (if your blog is private)
      */
@@ -105,10 +105,10 @@ module.exports = {
      * valine 设置 (if you need valine comment )
      */
 
-    // valineConfig: {
-    //   appId: '...',// your appId
-    //   appKey: '...', // your appKey
-    // }
+    valineConfig: {
+      appId: '7EUuY67ai5nniEk6Hh2n3QKo-gzGzoHsz',// your appId
+      appKey: 'WTgTjYdAz4dtdEnewrhYxU0K', // your appKey
+    }
   },
   markdown: {
     lineNumbers: true
