@@ -21,7 +21,7 @@ module.exports = {
     ["script", {
       "language": "javascript",
       "type": "text/javascript",
-      "src": "/scripts/autoload.js.js"
+      "src": "/scripts/autoload.js"
     }]
   ],
   theme: 'reco',
