@@ -9,4 +9,4 @@ categories:
 
 
 
-<iframe src="http://localhost:8080/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-e9075d72-0451-48df-afe1-d46932ae4554/1304a3aa-9fe0-4723-8889-4b81e8583efc.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://study-doc.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-e9075d72-0451-48df-afe1-d46932ae4554/1304a3aa-9fe0-4723-8889-4b81e8583efc.pdf" width="100%" height="600px"></iframe>
