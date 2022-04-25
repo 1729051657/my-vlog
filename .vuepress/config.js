@@ -69,6 +69,7 @@ module.exports = {
     },
     friendLink: [
       {
+        logo:'https://avatars.githubusercontent.com/u/33803388?s=40&v=4',
         title: '小孔博客',
         desc: 'Enjoy when you can, and endure when you must.',
         email: '1729051657@qq.com',
