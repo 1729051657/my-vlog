@@ -1,6 +1,6 @@
 module.exports = {
-  title: "德超的博客",
-  description: '记录开发生活 .',
+  title: "中国文学名家名作赏析",
+  description: '中国文学名家名作赏析 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -16,17 +16,7 @@ module.exports = {
     ["script", {
       "language": "javascript",
       "type": "text/javascript",
-      "src": "/pdfjs/build/pdf.js"
-    }],
-    ["script", {
-      "language": "javascript",
-      "type": "text/javascript",
-      "src": "/scripts/MouseClickEffect.js"
-    }],
-    ["script", {
-      "language": "javascript",
-      "type": "text/javascript",
-      "src": "/scripts/autoload.js"
+      "src": "/pdf/build/pdf.js"
     }]
   ],
   theme: 'reco',
@@ -47,14 +37,6 @@ module.exports = {
         ]
       }
     ],
-    sidebar: {
-      '/docs/theme-reco/': [
-        '',
-        'theme',
-        'plugin',
-        'api'
-      ]
-    },
     type: 'blog',
     // 博客设置
     blogConfig: {
@@ -84,7 +66,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'kongdechao',
+    author: '司方维',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号

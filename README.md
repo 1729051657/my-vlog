@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 小孔的博客
-tagline: 记录扯淡的开发日常.
+heroText: 中国文学名家名作赏析
+tagline: 中国文学名家名作赏析.
 
 # heroImage: /hero.png
 # heroImageStyle: {
