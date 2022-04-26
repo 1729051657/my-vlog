@@ -5,23 +5,23 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
-    ['link', {rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css'}],
+    ['link', {rel: 'stylesheet', href: '/fontawesome/css/all.min.css'}],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
     // 引入jquery
     ["script", {
       "language": "javascript",
       "type": "text/javascript",
-      "src": "https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"
+      "src": "/js/jquery.min.js"
     }],
     ["script", {
       "language": "javascript",
       "type": "text/javascript",
-      "src": "/scripts/MouseClickEffect.js"
+      "src": "/js/MouseClickEffect.js"
     }],
     ["script", {
       "language": "javascript",
       "type": "text/javascript",
-      "src": "/scripts/autoload.js"
+      "src": "/js/autoload.js"
     }]
   ],
   theme: 'reco',
@@ -69,7 +69,7 @@ module.exports = {
     },
     friendLink: [
       {
-        logo:'https://avatars.githubusercontent.com/u/33803388?s=40&v=4',
+        logo:'https://portrait.gitee.com/uploads/avatars/user/504/1513155_k1729051657_1640095661.png',
         title: '小孔博客',
         desc: 'Enjoy when you can, and endure when you must.',
         email: '1729051657@qq.com',
