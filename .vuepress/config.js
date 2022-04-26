@@ -70,10 +70,16 @@ module.exports = {
     friendLink: [
       {
         logo:'https://portrait.gitee.com/uploads/avatars/user/504/1513155_k1729051657_1640095661.png',
-        title: '小孔博客',
-        desc: 'Enjoy when you can, and endure when you must.',
+        title: '小孔github',
+        desc: '享受代码能对生活带来的便捷。',
         email: '1729051657@qq.com',
         link: 'https://github.com/1729051657'
+      },{
+        logo:'https://portrait.gitee.com/uploads/avatars/user/504/1513155_k1729051657_1640095661.png',
+        title: '小孔gitee',
+        desc: '享受代码能对生活带来的便捷。',
+        email: '1729051657@qq.com',
+        link: 'https://gitee.com/k1729051657'
       }
     ],
     logo: '/logo.png',
@@ -83,13 +89,14 @@ module.exports = {
     // 自动形成侧边导航
      sidebar: 'auto',
     // 最后更新时间
-    lastUpdated: 'Last Updated',
+    lastUpdated: '最后更新时间',
     // 作者
-    author: 'kongdechao',
+    author: '孔德超',
     // 作者头像
-    authorAvatar: '/avatar.png',
+    authorAvatar: 'https://portrait.gitee.com/uploads/avatars/user/504/1513155_k1729051657_1640095661.png',
     // 备案号
-    record: '豫K0355L',
+    record: '豫ICP备2021018110号-1',
+    recordLink: 'https://beian.miit.gov.cn/',
     // 项目开始时间
     startYear: '2017',
     /**
