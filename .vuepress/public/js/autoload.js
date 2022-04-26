@@ -25,7 +25,7 @@ function loadExternalResource(url, type) {
 }
 
 // 加载 waifu.css live2d.min.js waifu-tips.js
-if (screen.width >= 768) {
+if (screen.width >= 300) {
     Promise.all([
         loadExternalResource(  "/css/waifu.css", "css"),
         loadExternalResource(  "/js/live2d.min.js", "js"),
