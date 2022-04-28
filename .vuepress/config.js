@@ -69,13 +69,19 @@ module.exports = {
     },
     friendLink: [
       {
-        logo:'https://portrait.gitee.com/uploads/avatars/user/504/1513155_k1729051657_1640095661.png',
+        logo:'/avatar.jpeg',
+        title: '小孔CSDN',
+        desc: '享受代码能对生活带来的便捷。',
+        email: '1729051657@qq.com',
+        link: 'https://blog.csdn.net/u011573619'
+      },{
+        logo:'/avatar.jpeg',
         title: '小孔github',
         desc: '享受代码能对生活带来的便捷。',
         email: '1729051657@qq.com',
         link: 'https://github.com/1729051657'
       },{
-        logo:'https://portrait.gitee.com/uploads/avatars/user/504/1513155_k1729051657_1640095661.png',
+        logo:'/avatar.jpeg',
         title: '小孔gitee',
         desc: '享受代码能对生活带来的便捷。',
         email: '1729051657@qq.com',
