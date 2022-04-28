@@ -93,7 +93,7 @@ module.exports = {
     // 作者
     author: '孔德超',
     // 作者头像
-    authorAvatar: 'https://portrait.gitee.com/uploads/avatars/user/504/1513155_k1729051657_1640095661.png',
+    authorAvatar: '/avatar.jpeg',
     // 备案号
     record: '豫ICP备2021018110号-1',
     recordLink: 'https://beian.miit.gov.cn/',
