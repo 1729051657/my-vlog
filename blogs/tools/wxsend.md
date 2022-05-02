@@ -160,7 +160,8 @@ bot.join()
 ```
 
 ## 下面是效果
-![img_1.png](./img_6.png)
+
+![img_1.png](./img6.png)
 
 
 

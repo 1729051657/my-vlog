@@ -34,16 +34,12 @@ module.exports = {
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
       { text: '时间线', link: '/timeline/', icon: 'reco-date' },
-      { text: '文档',
-        icon: 'reco-message',
-        items: [
-          { text: 'vuepress-reco', link: '/docs/theme-reco/' }
-        ]
-      },
       { text: '联系我',
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/1729051657/', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/1729051657/', icon: 'reco-github' },
+          { text: 'Gitee', link: 'https://gitee.com/k1729051657', icon: 'reco-mayun' },
+          { text: '博客', link: 'https://blog.csdn.net/u011573619', icon: 'reco-blog' }
         ]
       }
     ],
@@ -69,26 +65,26 @@ module.exports = {
     },
     friendLink: [
       {
-        logo:'/avatar.jpeg',
+        logo:'/logo.jpg',
         title: '小孔CSDN',
         desc: '享受代码能对生活带来的便捷。',
         email: '1729051657@qq.com',
         link: 'https://blog.csdn.net/u011573619'
       },{
-        logo:'/avatar.jpeg',
+        logo:'/logo.jpg',
         title: '小孔github',
         desc: '享受代码能对生活带来的便捷。',
         email: '1729051657@qq.com',
         link: 'https://github.com/1729051657'
       },{
-        logo:'/avatar.jpeg',
+        logo:'/logo.jpg',
         title: '小孔gitee',
         desc: '享受代码能对生活带来的便捷。',
         email: '1729051657@qq.com',
         link: 'https://gitee.com/k1729051657'
       }
     ],
-    logo: '/logo.png',
+    logo: '/logo.jpg',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,
@@ -99,7 +95,7 @@ module.exports = {
     // 作者
     author: '孔德超',
     // 作者头像
-    authorAvatar: '/avatar.jpeg',
+    authorAvatar: '/logo.jpg',
     // 备案号
     record: '豫ICP备2021018110号-1',
     recordLink: 'https://beian.miit.gov.cn/',
