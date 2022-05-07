@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 小孔的博客
-tagline: 记录扯淡的开发日常.
+heroText: 旅游服务标准体系
+tagline: 万里旅游集散中心.
 
 # heroImage: /hero.png
 # heroImageStyle: {

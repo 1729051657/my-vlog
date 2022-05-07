@@ -1,5 +1,5 @@
 module.exports = {
-  title: "德超的博客",
+  title: "万里旅游集散中心",
   description: '记录开发生活 .',
   dest: 'public',
   head: [
@@ -93,7 +93,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: '最后更新时间',
     // 作者
-    author: '孔德超',
+    author: '史世臻',
     // 作者头像
     authorAvatar: '/logo.jpg',
     // 备案号
