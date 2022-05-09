@@ -84,7 +84,7 @@ module.exports = {
         link: 'https://gitee.com/k1729051657'
       }
     ],
-    logo: '/logo.jpg',
+    logo: '/company.png',
     // 搜索设置
     search: true,
     searchMaxSuggestions: 10,
