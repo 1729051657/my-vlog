@@ -1,6 +1,6 @@
 module.exports = {
   title: "万里旅游集散中心",
-  description: '记录开发生活 .',
+  description: '旅游服务标准体系 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -17,11 +17,6 @@ module.exports = {
       "language": "javascript",
       "type": "text/javascript",
       "src": "/js/MouseClickEffect.js"
-    }],
-    ["script", {
-      "language": "javascript",
-      "type": "text/javascript",
-      "src": "/js/autoload.js"
     }]
   ],
   theme: 'reco',
