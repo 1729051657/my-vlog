@@ -1,12 +1,12 @@
 ---
-title: GW402办公室岗位职责标准
-date: 2022-04-20
+title: GW402 办公室岗位职责标准
+date: 2022-04-23
 tags:
- - GW402办公室岗位职责标准
+ - GW402 办公室岗位职责标准
 categories:
- - 工作岗位标准
+ - 四、工作岗位标准
 ---
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/994fc8e1-3080-4864-92b8-2a1bfeb483d3.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/f5741cac-d633-49b4-9296-5f3773eb4894.pdf" width="100%" height="600px"></iframe>

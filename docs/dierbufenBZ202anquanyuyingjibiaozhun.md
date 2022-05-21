@@ -1,12 +1,12 @@
 ---
-title: 第二部分 BZ 202安全与应急标准
-date: 2022-02-20
+title: BZ 202安全与应急标准
+date: 2022-05-10
 tags:
- - 第二部分 BZ 202安全与应急标准
+ - BZ 202安全与应急标准
 categories:
- - 服务保障标准
+ - 二、服务保障标准
 ---
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/7750da8d-7e36-4b7f-9357-caa73b4d30fa.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/5fa63c1e-00be-444c-a853-0dd95421df63.pdf" width="100%" height="600px"></iframe>

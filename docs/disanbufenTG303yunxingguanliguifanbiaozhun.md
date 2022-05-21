@@ -1,12 +1,12 @@
 ---
-title: 第三部分 TG 303 运行管理规范标准
-date: 2022-03-20
+title: TG 303 运行管理规范标准
+date: 2022-04-28
 tags:
- - 第三部分 TG 303 运行管理规范标准
+ - TG 303 运行管理规范标准
 categories:
- - 服务提供标准
+ - 三、服务提供标准
 ---
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/c85f9f82-e8bc-4d20-9637-07918ad6e25a.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/f605fadf-3aca-47c0-bbe2-ab61a0cfc8bc.pdf" width="100%" height="600px"></iframe>

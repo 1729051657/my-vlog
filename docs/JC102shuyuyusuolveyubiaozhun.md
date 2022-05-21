@@ -1,12 +1,12 @@
 ---
-title: JC102术语与缩略语标准
-date: 2022-01-20
+title: JC 102术语与缩略语标准
+date: 2022-05-13
 tags:
- - JC102术语与缩略语标准
+ - JC 102术语与缩略语标准
 categories:
- - 旅行社通用基础标准体系
+ - 一、旅行社通用基础标准体系
 ---
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/c1435f4f-4565-4b12-a470-dae7b1f65260.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/1863548f-1f34-4d3b-928e-8021604cbc6f.pdf" width="100%" height="600px"></iframe>

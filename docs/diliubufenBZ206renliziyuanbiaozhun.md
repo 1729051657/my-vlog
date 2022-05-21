@@ -1,12 +1,12 @@
 ---
-title: 第六部分 BZ206人力资源标准
-date: 2022-02-20
+title: BZ206人力资源标准
+date: 2022-05-05
 tags:
- - 第六部分 BZ206人力资源标准
+ - BZ206人力资源标准
 categories:
- - 服务保障标准
+ - 二、服务保障标准
 ---
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/28690fb3-7682-40ad-a445-08d70e4532d9.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/2abb205d-3e82-4f49-a8b4-553c6f21397c.pdf" width="100%" height="600px"></iframe>

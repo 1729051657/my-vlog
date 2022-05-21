@@ -1,6 +1,6 @@
 ---
 title: 文明用语
-date: 2022-02-28
+date: 2022-05-18
 tags:
  - 文明用语
 categories:
@@ -9,4 +9,4 @@ categories:
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/8143ed70-728f-45f1-be42-c2e220940837.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/b37054bb-15a3-4e9d-9eca-0a444a621827.pdf" width="100%" height="600px"></iframe>

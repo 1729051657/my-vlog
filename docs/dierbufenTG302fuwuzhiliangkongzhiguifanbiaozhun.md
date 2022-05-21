@@ -1,12 +1,12 @@
 ---
-title: 第二部分 TG 302 服务质量控制规范标准
-date: 2022-03-20
+title: TG 302 服务质量控制规范标准
+date: 2022-04-29
 tags:
- - 第二部分 TG 302 服务质量控制规范标准
+ - TG 302 服务质量控制规范标准
 categories:
- - 服务提供标准
+ - 三、服务提供标准
 ---
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/1f73b5cb-d3d3-466d-a179-e29e56111193.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/135a601e-131c-49e3-9a75-ae43c0a996d7.pdf" width="100%" height="600px"></iframe>

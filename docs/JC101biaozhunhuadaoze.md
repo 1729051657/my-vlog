@@ -1,12 +1,12 @@
 ---
-title: JC101  标准化导则
-date: 2022-01-20
+title: JC 101  标准化导则
+date: 2022-05-14
 tags:
- - JC101  标准化导则
+ - JC 101  标准化导则
 categories:
- - 旅行社通用基础标准体系
+ - 一、旅行社通用基础标准体系
 ---
 
 
 
-<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f2824a45-8901-4778-8647-e91230414af7/d34d39fb-5aaf-4f81-9e6b-9d28f8ce47e4.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://wanli.yourtools.icu/pdf/web/viewer.html?file=https://vkceyugu.cdn.bspapp.com/VKCEYUGU-70d376b2-8c13-4496-a61e-94013c96172a/20166eb7-270e-4573-8bd0-d18defa8e3c6.pdf" width="100%" height="600px"></iframe>
