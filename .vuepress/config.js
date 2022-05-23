@@ -1,6 +1,6 @@
 module.exports = {
-  title: "万里旅游集散中心",
-  description: '旅游服务标准体系 .',
+  title: "课题结项材料",
+  description: '杨强横向课题结项材料 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -38,14 +38,6 @@ module.exports = {
         ]
       }
     ],
-    sidebar: {
-      '/docs/theme-reco/': [
-        '',
-        'theme',
-        'plugin',
-        'api'
-      ]
-    },
     type: 'blog',
     // 博客设置
     blogConfig: {
@@ -88,7 +80,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: '最后更新时间',
     // 作者
-    author: '史世臻',
+    author: '杨强',
     // 作者头像
     authorAvatar: '/logo.jpg',
     // 备案号

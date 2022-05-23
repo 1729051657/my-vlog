@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 旅游服务标准体系
-tagline: 万里旅游集散中心.
+heroText: 横向课题结项材料
+tagline: 杨强横向课题结项材料.
 
 # heroImage: /hero.png
 # heroImageStyle: {
