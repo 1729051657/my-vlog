@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 横向课题结项材料
-tagline: 杨强横向课题结项材料.
+heroText: 历史学考研资源库
+tagline: 历史学考研.
 
 # heroImage: /hero.png
 # heroImageStyle: {

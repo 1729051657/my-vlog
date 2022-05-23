@@ -1,6 +1,6 @@
 module.exports = {
-  title: "课题结项材料",
-  description: '杨强横向课题结项材料 .',
+  title: "历史学考研资源库",
+  description: '历史学考研 .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
