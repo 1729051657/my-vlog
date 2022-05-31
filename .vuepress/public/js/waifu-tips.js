@@ -34,6 +34,10 @@ function loadWidget(config) {
 		document.getElementById("waifu").style.bottom = 0;
 	}, 0);
 
+
+
+
+
 	function randomSelection(obj) {
 		return Array.isArray(obj) ? obj[Math.floor(Math.random() * obj.length)] : obj;
 	}
@@ -275,5 +279,11 @@ function initWidget(config, apiPath) {
 		}, 0);
 	} else {
 		loadWidget(config);
+		if (screen.width < 768) {
+			localStorage.setItem("waifu-display", Date.now());
+			document.getElementById("waifu").style.bottom = "-500px";
+			document.getElementById("waifu").style.display = "none";
+			document.getElementById("waifu-toggle").classList.add("waifu-toggle-active");
+		}
 	}
 }

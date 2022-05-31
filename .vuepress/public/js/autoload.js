@@ -25,19 +25,17 @@ function loadExternalResource(url, type) {
 }
 
 // 加载 waifu.css live2d.min.js waifu-tips.js
-if (screen.width >= 300) {
-    Promise.all([
-        loadExternalResource(  "/css/waifu.css", "css"),
-        loadExternalResource(  "/js/live2d.min.js", "js"),
-        loadExternalResource(  "/js/waifu-tips.js", "js")
-    ]).then(() => {
-        initWidget({
-            waifuPath: "/js/waifu-tips.json",
-            //apiPath: "https://live2d.fghrsh.net/api/",
-            cdnPath: "https://live2d.yourtools.icu/"
-        });
+Promise.all([
+    loadExternalResource(  "/css/waifu.css", "css"),
+    loadExternalResource(  "/js/live2d.min.js", "js"),
+    loadExternalResource(  "/js/waifu-tips.js", "js")
+]).then(() => {
+    initWidget({
+        waifuPath: "/js/waifu-tips.json",
+        //apiPath: "https://live2d.fghrsh.net/api/",
+        cdnPath: "https://live2d.yourtools.icu/"
     });
-}
+});
 // initWidget 第一个参数为 waifu-tips.json 的路径，第二个参数为 API 地址
 // API 后端可自行搭建，参考 https://github.com/fghrsh/live2d_api
 // 初始化看板娘会自动加载指定目录下的 waifu-tips.json
