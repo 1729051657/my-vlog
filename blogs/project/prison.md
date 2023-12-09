@@ -1,5 +1,5 @@
 ---
-title: 吉林省白城市看守所刷脸点餐
+title: 白城市，马鞍山，淄川，淄博，桓台县看守所钱款顾送+刷脸点餐
 date: 2022-01-03
 tags:
  - spring-boot
@@ -24,8 +24,7 @@ categories:
 - 后台每日汇总出商品账单 以及各种明细
 ## 使用到的技术 
 - 利用`docker`部署项目 脚本定期备份数据库
-- `minio`作为本地图片存储
-- 利用`uniCloud` 免费阿里云 存一些非隐私图片
+- `oss`作为图片存储
 - 利用`uniapp` 开发安卓
 - 由于刷脸需要调用原生sdk，所以刷脸使用的是自己开发的`uniapp原生插件`
 - 由于语音生成需要调用原生sdk，所以语音生成也使用的是自己开发的`uniapp原生插件`
@@ -36,11 +35,12 @@ categories:
 [安卓APP下载地址](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ce2a3b14-ff17-44c7-a7e1-c5704a867607/b22b512a-9124-4d9d-9d6f-643442867575.apk)
 
 ## 刷脸设备演示视频
-<video style="width: 100%" controls src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ce2a3b14-ff17-44c7-a7e1-c5704a867607/84eb4232-a836-4864-8540-3677ffa614c4.mp4"/>
+<video style="width: 100%" controls src="./file/prison.mp4"/>
 
-## 闲谈
-![img_20.png](./img_20.png)
-![img_21.png](./img_21.png)
+<video style="width: 100%" controls src="./file/prison1.mp4"/>
+
+<video style="width: 100%" controls src="./file/prison2.mp4"/>
+
 
 
 
