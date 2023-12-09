@@ -2,13 +2,9 @@
 title: ChatGPT插件`上架uniapp插件市场` `对接官方接口`
 date: 2022-01-03
 tags:
- - spring-boot
- - vue
- - minio
  - uniapp
  - uniapp原生插件
- - docker
- - echarts
+ - unicloud
 categories:
  - my-project
 ---
